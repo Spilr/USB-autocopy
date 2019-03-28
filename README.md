@@ -6,7 +6,7 @@ Making USB file to automatically copy** files when plugged into computer. Works 
 Setup:
 ```
 cd /run/media/$USER/NAME_OF_USB
-git clone https://github.com/silpold/USB-autocopy.git
+git clone https://github.com/spilr/USB-autocopy.git
 
 # Since you need the autorun file in the root directory of your USB, move it out of the USB-autocopy folder.
 
